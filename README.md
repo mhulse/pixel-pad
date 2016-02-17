@@ -37,6 +37,14 @@ This vellum worked great for my needs:
 
 ![paper](https://cloud.githubusercontent.com/assets/218624/9724932/92b151f4-5593-11e5-9b21-5316fb73a0ec.png)
 
+## Example
+
+To give you an example of what the reverse/vellum print looks like, here’s a show of Pixel Pad “version 1”:
+
+![pixel-pad](https://cloud.githubusercontent.com/assets/218624/13122083/1da60c7c-d56a-11e5-8445-7bd7e37cdbd8.png)
+
+I’ll eventually post an updated image that shows the latest Pixel Pad design.
+
 ---
 
 Copyright © 2015 [Micky Hulse](http://mky.io).
