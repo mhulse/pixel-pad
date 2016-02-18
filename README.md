@@ -21,13 +21,13 @@ Each option has room for spiral binding at the top of the page.
 
 For opaque paper.
 
-![pixel-pad.png](pixel-pad.png)
+[![pixel-pad.png](pixel-pad.png)](https://github.com/pixelfoot/pixel-pad/raw/master/pixel-pad.pdf)
 
 ### Back-side print
 
 For vellum paper.
 
-![pixel-pad-mirrored.png](pixel-pad-mirrored.png)
+[![pixel-pad-mirrored.png](pixel-pad-mirrored.png)](https://github.com/pixelfoot/pixel-pad/raw/master/pixel-pad-mirrored.pdf)
 
 I recommend at least 30 pound vellum paper when using the mirrored version.
 
