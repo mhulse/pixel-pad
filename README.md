@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://youtu.be/An1LQD_QHl0">
+	<a href="https://youtu.be/An1LQD_QHl0" target="_blank">
 		<img width="100%" src="https://cloud.githubusercontent.com/assets/218624/13132921/cd6712e6-d5ab-11e5-9504-cd815b7b1b7e.gif">
 	</a>
 </p>
