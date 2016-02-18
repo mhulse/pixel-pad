@@ -1,10 +1,10 @@
-# Pixel Pad
-
 <p align="center">
 	<a href="https://youtu.be/An1LQD_QHl0">
 		<img width="100%" src="https://cloud.githubusercontent.com/assets/218624/13131804/d6eb52ae-d5a2-11e5-8c25-2a5514b38cf4.gif">
 	</a>
 </p>
+
+# Pixel Pad
 
 **Printable 16-64 pixel grid.**
 
