@@ -39,6 +39,11 @@ This vellum worked great for my needs:
 
 ![paper](https://cloud.githubusercontent.com/assets/218624/9724932/92b151f4-5593-11e5-9b21-5316fb73a0ec.png)
 
+## Feedback
+
+[Bugs? Constructive feedback? Questions?](../../issues/new?title=Nymphs%20blitz%20quick%20vex%20dwarf%20jog!&body=A%20very%20bad%20quack%20might%20jinx%20zippy%20fowls%20…)
+
+
 ---
 
 Copyright © 2015 [Micky Hulse](http://mky.io).
