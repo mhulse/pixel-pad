@@ -23,7 +23,7 @@ For opaque paper.
 
 [![pixel-pad.png](pixel-pad.png)](https://github.com/pixelfoot/pixel-pad/raw/master/pixel-pad.pdf)
 
-### Back-side print
+### Back-side (mirrored) print
 
 For vellum paper.
 
