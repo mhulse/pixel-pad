@@ -33,8 +33,6 @@ I recommend at least 30 pound vellum paper when using the mirrored version.
 
 ## Printing
 
-**Screw Kinkos/FedEx office!** I’m sorry, but they suck.
-
 I’ve had great service at Office Depot Copy & Print shops.
 
 This vellum worked great for my needs:
