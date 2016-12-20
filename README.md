@@ -46,6 +46,6 @@ This vellum worked great for my needs:
 
 ---
 
-Copyright © 2015 [Micky Hulse](http://mky.io). All rights reserved.
+Copyright © 2015 [Micky Hulse](http://mky.io).
 
-Unauthorized use and/or duplication of this material, without express and written permission from the owner, is strictly prohibited.
+Licensed under: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) https://creativecommons.org/licenses/by-nc/4.0/
